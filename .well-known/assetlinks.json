@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.meerhamzacodes.adsbox",
+      "sha256_cert_fingerprints": [
+        "7A:F6:B2:BB:0B:A3:A7:BF:94:79:50:BD:71:F0:A3:3E:D2:78:52:CC:07:1E:62:6A:5D:88:ED:DB:AC:DE:98:AC"
+      ]
+    }
+  }
+]
